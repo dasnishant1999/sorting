@@ -2,11 +2,11 @@
 
 In this applications some general sorting algorthims are implemented. This app only visualizes on how sorting will look like based on algorithms chosen
 Sorting Algorithms implemented in this application are:
-## 1.Bubble Sort
-## 2.Insertion Sort
-## 3.Selection Sort
-## 4.Merge Sort
-## 5.Quick Sort
+# 1.Bubble Sort
+# 2.Insertion Sort
+# 3.Selection Sort
+# 4.Merge Sort
+# 5.Quick Sort
 
 Feel free to raise an issue:-) 
 
