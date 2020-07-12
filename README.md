@@ -11,11 +11,11 @@ Sorting Algorithms implemented in this application are:
 Release apk:https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/app-release.apk
 Feel free to raise an issue:-) 
 Some Screen_shots:
-![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-29-36-90_ce652841bcd3f84001fa1f9a5335215e.png|width=250) 
-![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-29-53-50_ce652841bcd3f84001fa1f9a5335215e.png=300x500)
-![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-30-03-08_ce652841bcd3f84001fa1f9a5335215e.png=300x500)
-![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-30-10-58_ce652841bcd3f84001fa1f9a5335215e.png=300x500)
-![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-30-24-48_ce652841bcd3f84001fa1f9a5335215e.png=300x500)
+![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-29-36-90_ce652841bcd3f84001fa1f9a5335215e.png) 
+![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-29-53-50_ce652841bcd3f84001fa1f9a5335215e.png)
+![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-30-03-08_ce652841bcd3f84001fa1f9a5335215e.png)
+![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-30-10-58_ce652841bcd3f84001fa1f9a5335215e.png)
+![Image](https://github.com/dasnishant1999/sorting/blob/master/screen%20shots/Screenshot_2020-07-12-23-30-24-48_ce652841bcd3f84001fa1f9a5335215e.png)
 
 A new Flutter application.
 
